@@ -1,7 +1,7 @@
 5.3.4:
   date: 2023-10-05
   fixed bugs:
-    - PR#1 - In case of JSON parse error, include headers
+    - PR#3 - In case of JSON parse error, include headers
 
 5.3.3:
   date: 2023-09-28
